@@ -232,6 +232,11 @@ int main()
 	TeacherFreeMem(&pT);
 #endif
 	printf("hello world\n");
+	printf("hello world\n");
+	printf("hello world\n");
+	printf("hello world\n");
+	printf("hello world\n");
+	printf("hello world\n");
 
 	system("pause");
 	return 0;
