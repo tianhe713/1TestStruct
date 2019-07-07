@@ -1,0 +1,21 @@
+Index: test.c
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>GBK
+===================================================================
+--- test.c	(revision 9aa0256481f37ce4323018ab6a000b1f2ba51eab)
++++ test.c	(revision 0c6521325817efa17fd495c7e2ead96bf681c2b1)
+@@ -237,6 +237,13 @@
+ 	printf("hello world\n");
+ 	printf("hello world\n");
+ 	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
++	printf("hello world\n");
+ 
+ 	system("pause");
+ 	return 0;
